@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code>Digitac Creators Zone</code></h1>
+  <h1><code>Digital Creators Zone</code></h1>
   <p>
     <strong>Qui sommes nous ?</strong>
   </p>
